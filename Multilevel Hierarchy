@@ -1,0 +1,8 @@
+public static void main(String ss[])
+{
+System.out.println(“ Employee object e is created ");
+Employee e = new Employee();
+System.out.println(" Manager object m is created ");
+Manager m = new Manager();
+System.out.println(" Director object d is created ");
+Director d = new Director();
